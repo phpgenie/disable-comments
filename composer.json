@@ -1,0 +1,11 @@
+{
+	"name": "phpgenie/disable-comments",
+	"description": "WordPress disable comments plugin",
+	"type": "wordpress-plugin",
+	"license": "GPLv2",
+	"require": {
+		"php":">=5.3.2",
+		"composer/installers":"v1.0.6",
+		"fancyguy/wordpress-monolog": "dev-master"
+	}
+}
